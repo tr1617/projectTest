@@ -1,4 +1,4 @@
 this is a test file
-add some more text
-I add some more text
-
+Changed
+New Line
+new line 2
